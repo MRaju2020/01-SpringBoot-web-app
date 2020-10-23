@@ -11,7 +11,7 @@ public class WelcomeController {
 //	@RequestMapping("/welcome")
 //	public ModelAndView displayWelcomeMsg(){
 //		ModelAndView mav = new ModelAndView();
-//		
+//		System.out.println("This is display function");
 //		mav.addObject("msg", "Welcome to MS IT...");
 //		mav.setViewName("index");
 //		
